@@ -6,7 +6,7 @@ from setuptools import setup
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-packages = ['science']
+packages = ['science', 'mathematics']
 
 requires = []
 
